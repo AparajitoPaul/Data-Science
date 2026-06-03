@@ -38,21 +38,14 @@ The goal of this repository is to document my end-to-end journey in becoming a D
 # 📂 Repository Structure
 
 ```bash
-Complete-Data-Science-Bootcamp/
-│
-├── 01_Python/
-├── 02_Statistics/
-├── 03_SQL/
-├── 04_Exploratory_Data_Analysis/
-├── 05_Feature_Engineering/
-├── 06_Machine_Learning/
-├── 07_Deep_Learning/
-├── 08_NLP/
-├── 09_Projects/
-├── 10_MLOps/
-├── datasets/
-├── notebooks/
-└── README.md
+Python/
+├── 1.Python_programming_language
+├── 2.Python_control_flow
+├── 3.Builtin_DataStructure_Python
+├── 4.Functions_in_Python
+├── 5.Importing_Creating_Modules&Packages/
+├── inpogress
+└── readme.md
 ```
 
 ---
@@ -150,21 +143,6 @@ Complete-Data-Science-Bootcamp/
 - Understand complete ML lifecycle
 - Learn deployment & MLOps
 - Create a strong Data Science portfolio
-
----
-
-# 📈 Progress Tracker
-
-| Module | Status |
-|---|---|
-| Python | ⏳ In Progress |
-| Statistics | ⏳ In Progress |
-| SQL | ⏳ In Progress |
-| EDA | ⏳ In Progress |
-| Machine Learning | ⏳ In Progress |
-| Deep Learning | ⏳ In Progress |
-| NLP | ⏳ In Progress |
-| MLOps | ⏳ In Progress |
 
 ---
 

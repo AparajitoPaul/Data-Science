@@ -1,0 +1,5 @@
+Hi, this file is a text file created exclusively for the assignment questions
+This can be modified throughout the assignment notebook as we go ahead question by question
+This can be fun!
+
+

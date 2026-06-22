@@ -44,7 +44,10 @@ Python/
 ├── 3.Builtin_DataStructure_Python
 ├── 4.Functions_in_Python
 ├── 5.Importing_Creating_Modules&Packages
-├── inpogress
+├── 6.File_handling _in_Python
+├── 7.Exception_handling
+├── 8.Classes_&_Objects
+├── 9.Advance_Pyhton(In progress)
 └── readme.md
 ```
 

@@ -38,7 +38,7 @@ The goal of this repository is to document my end-to-end journey in becoming a D
 # 📂 Repository Structure
 
 ```bash
-Python/
+Data-Science/
 ├── 1.Python_programming_language
 ├── 2.Python_control_flow
 ├── 3.Builtin_DataStructure_Python
@@ -47,7 +47,8 @@ Python/
 ├── 6.File_handling _in_Python
 ├── 7.Exception_handling
 ├── 8.Classes_&_Objects
-├── 9.Advance_Pyhton(In progress)
+├── 9.Advance_Pyhton
+├── 10. In progress
 └── readme.md
 ```
 
